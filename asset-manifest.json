@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/reactAssignment/static/css/main.61af33d0.chunk.css",
-    "main.js": "/reactAssignment/static/js/main.4067abf8.chunk.js",
-    "main.js.map": "/reactAssignment/static/js/main.4067abf8.chunk.js.map",
-    "runtime-main.js": "/reactAssignment/static/js/runtime-main.f46a50c0.js",
-    "runtime-main.js.map": "/reactAssignment/static/js/runtime-main.f46a50c0.js.map",
-    "static/js/2.d41df00b.chunk.js": "/reactAssignment/static/js/2.d41df00b.chunk.js",
-    "static/js/2.d41df00b.chunk.js.map": "/reactAssignment/static/js/2.d41df00b.chunk.js.map",
-    "static/js/3.25ee1d79.chunk.js": "/reactAssignment/static/js/3.25ee1d79.chunk.js",
-    "static/js/3.25ee1d79.chunk.js.map": "/reactAssignment/static/js/3.25ee1d79.chunk.js.map",
+    "main.js": "/reactAssignment/static/js/main.d8def2e3.chunk.js",
+    "main.js.map": "/reactAssignment/static/js/main.d8def2e3.chunk.js.map",
+    "runtime-main.js": "/reactAssignment/static/js/runtime-main.d0dc8048.js",
+    "runtime-main.js.map": "/reactAssignment/static/js/runtime-main.d0dc8048.js.map",
+    "static/js/2.86725ac3.chunk.js": "/reactAssignment/static/js/2.86725ac3.chunk.js",
+    "static/js/2.86725ac3.chunk.js.map": "/reactAssignment/static/js/2.86725ac3.chunk.js.map",
+    "static/js/3.7e8fcc20.chunk.js": "/reactAssignment/static/js/3.7e8fcc20.chunk.js",
+    "static/js/3.7e8fcc20.chunk.js.map": "/reactAssignment/static/js/3.7e8fcc20.chunk.js.map",
     "index.html": "/reactAssignment/index.html",
     "static/css/main.61af33d0.chunk.css.map": "/reactAssignment/static/css/main.61af33d0.chunk.css.map",
-    "static/js/2.d41df00b.chunk.js.LICENSE.txt": "/reactAssignment/static/js/2.d41df00b.chunk.js.LICENSE.txt",
+    "static/js/2.86725ac3.chunk.js.LICENSE.txt": "/reactAssignment/static/js/2.86725ac3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/reactAssignment/static/media/mainpage_background.bcef6766.jpg",
     "static/media/mightyLove.23c9b17e.mp3": "/reactAssignment/static/media/mightyLove.23c9b17e.mp3",
     "static/media/testaudio.c4f0799f.mp3": "/reactAssignment/static/media/testaudio.c4f0799f.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.f46a50c0.js",
-    "static/js/2.d41df00b.chunk.js",
+    "static/js/runtime-main.d0dc8048.js",
+    "static/js/2.86725ac3.chunk.js",
     "static/css/main.61af33d0.chunk.css",
-    "static/js/main.4067abf8.chunk.js"
+    "static/js/main.d8def2e3.chunk.js"
   ]
 }
